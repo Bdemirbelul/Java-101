@@ -1,8 +1,0 @@
-# IDE / OS
-.vs/
-.idea/
-*.iml
-
-# Java / Maven
-**/target/
-*.class
